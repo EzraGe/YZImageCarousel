@@ -1,0 +1,25 @@
+PODS:
+  - KVOController (1.2.0)
+  - Masonry (1.0.2)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+
+DEPENDENCIES:
+  - KVOController
+  - Masonry
+  - SDWebImage
+  - YYCategories
+
+SPEC CHECKSUMS:
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+
+PODFILE CHECKSUM: 1ff50a41e330349801ab33f7b9389af19928cb71
+
+COCOAPODS: 1.4.0.beta.1
